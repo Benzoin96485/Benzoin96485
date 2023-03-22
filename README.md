@@ -1,23 +1,16 @@
-# My sand-statue homepage
-> 夫天地为炉兮，造化为工；阴阳为炭兮，万物为铜
-### 一份自述
+# 个人简介 | Self Introduction
+> 像一个氢离子一样思考。
+>
+> Think as a proton.
 
-#### 基本概况
+我是北京大学化学与分子工程学院的一名大四学生。未来将前往麻省理工学院就读化学 PhD 项目。
 
-- 这里是一名化学与分子工程学院19级新生的刚刚创立的Github页面。
-- 本人真名罗伟梁，昵称Benzoin96485有着特殊含义。Benzoin是一种被称作“安息香”的香料，其化学名为“二苯乙醇酮”，化学式C<sub>14</sub>H<sub>12</sub>O<sub>2</sub>，我非常喜欢它的味道。~~96485是因为单独的Benzoin重名才加的数字，是电化学中常用的法拉第常量（去掉单位库仑每摩尔）~~
-- 联系方式：手机13074178809 QQ 2522437828 微信同QQ
+I'm a senior student at College of Chemistry and Molecular Engineering, Peking University. I'm going to attend the Chemistry Ph.D. Program at MIT.
 
-#### 个人爱好
-- 化院新生足球队成员，踢得很菜。
-- 热衷奇怪的音乐形式，比如演奏语音计算器。对古典音乐爱的很深。
-- 打众多主流和非主流的游戏，游戏理解较深的包括[Minecraft](https://www.bilibili.com/video/av56365201/)和怪物猎人系列。
+我目前是[深势科技](https://www.dp.tech/)的一名实习研究员，我还曾在[分子设计实验室](http://mdl.ipc.pku.edu.cn/mdlweb/home-cn.php)从事本科生科研。
 
-#### 编程经历
-- 误入过一段时间信息竞赛，只学会了基本的C++语法。
-- 用高中数学书上学过的二分法写过解高次方程的小程序。
-- 尝试搭建过个人博客~~服务器忘交钱了然后挂了~~
+I am a research intern at [DP Technology Ltd.](https://www.dp.tech/en), and conducted my undergraduate research at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php).
 
-#### 未来规划
-- 希望从事信息科学技术与化学交叉的科研工作，要勉励自己学好数学和计算机。
-- 希望在计算概论课上能得到一些在简单编程之外更深层次的收获，以后还想选数据结构与算法。
+我的主要研究兴趣是分子建模、理性药物设计与化学中的人工智能。
+
+My main research interest is molecular modeling, rational drug design and AI in chemistry.
