@@ -3,9 +3,9 @@
 >
 > Think like a proton.
 
-我是北京大学化学与分子工程学院的一名大四学生。未来将前往麻省理工学院就读化学 PhD 项目。
+我是北京大学化学与分子工程学院 2019 级毕业生。未来将前往麻省理工学院就读化学 PhD 项目。
 
-I'm a senior student at College of Chemistry and Molecular Engineering, Peking University. I'm going to attend the Chemistry Ph.D. Program at MIT.
+I graduated from the College of Chemistry and Molecular Engineering, Peking University in 2019. I'm going to attend the Chemistry Ph.D. Program at MIT.
 
 我目前是[深势科技](https://www.dp.tech/)的一名实习研究员，我还曾在[分子设计实验室](http://mdl.ipc.pku.edu.cn/mdlweb/home-cn.php)从事本科生科研。
 
