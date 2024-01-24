@@ -3,9 +3,9 @@
 >
 > Think like a proton.
 
-我是麻省理工学院化学系 Kulik 教授课题组的一名博士生。
+我是麻省理工学院化学系 [Kulik 教授课题组](https://hjkgrp.mit.edu/) 的一名博士生。
 
-I'm a Ph.D. student at Kulik's research group, MIT Chemistry.
+I'm a Ph.D. student at [Kulik's research group](https://hjkgrp.mit.edu/), MIT Chemistry.
 
 我本科就读于北京大学化学与分子工程学院。我在[分子设计实验室](http://mdl.ipc.pku.edu.cn/mdlweb/home-cn.php)从事过本科生科研。我曾经是[深势科技](https://www.dp.tech/)的一名实习研究员。
 
