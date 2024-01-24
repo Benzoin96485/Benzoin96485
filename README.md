@@ -11,6 +11,6 @@ I'm a Ph.D. student at Kulik's research group, MIT Chemistry.
 
 My undergraduate study was at College of Chemistry and Molecular Engineering, Peking University. I conducted my undergraduate research at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php). I was also a research intern at [DP Technology Ltd.](https://www.dp.tech/en). 
 
-我的主要研究兴趣是分子建模与模拟、理性分子设计与化学中的人工智能。
+我的主要研究兴趣是分子建模与模拟、理性分子设计与化学中的人工智能。我目前在研究金属酶催化的多尺度建模。
 
-My main research interest is molecular modeling/simulation, rational molecular design and AI in chemistry.
+My main research interest is molecular modeling/simulation, rational molecular design and AI in chemistry. I'm working on the multiscale modeling of metalloenzyme catalysis.
